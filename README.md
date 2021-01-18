@@ -1,2 +1,2 @@
-# Liver-Disease-Model-ML
-This model for predicting liver disease by machine learning
+# Liver Disease with GUI py pyqt5
+This app for predicting liver disease by machine learning
